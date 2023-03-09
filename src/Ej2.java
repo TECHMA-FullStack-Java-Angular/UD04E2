@@ -1,3 +1,14 @@
+/*Ejercicio 2:
+Escribe un programa Java que realice lo siguiente: 
+	- declarar una variable N de tipo int;
+	- declarar una variable A de tipo double;
+	- declarar una variable C de tipo char;
+	- asignar valor a cada una de ellas.
+A continuación, muetra por pantalla:
+	- El valor de cada variable;
+	La suma de N+A;
+	La diferencia de A-N;
+	El valor numérico correspondiente al carácter que contiene la variable C.*/
 
 public class Ej2 {
 	public static void main (String args[]) {
